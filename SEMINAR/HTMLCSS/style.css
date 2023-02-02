@@ -1,0 +1,45 @@
+.author{
+    color: rgb(67, 176, 209);
+    text-align: center;
+}
+html{
+    background-color: whitesmoke;
+}
+h1{
+    color:  rgb(67, 176, 209);
+    text-align: center;
+    
+}
+h2{
+    color: deeppink;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Teddy Bear'; >>> Лучше не надо*/
+}
+ul{
+    list-style: upper-roman;
+    text-align: left;
+}
+.list_img{
+    width: 300px;
+    margin-right: 100%;
+}
+.joke{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+@font-face {
+	font-family: 'Teddy Bear';
+	src: url('../Fonts/TeddyBear/fonts/teddy_bear.eot'); /* IE 9 Compatibility Mode */
+	src: url('../Fonts/TeddyBear/fonts/teddy_bear.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../Fonts/TeddyBear/fonts/teddy_bear.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../Fonts/TeddyBear/fonts/teddy_bear.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../Fonts/TeddyBear/fonts/teddy_bear.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../Fonts/TeddyBear/fonts/teddy_bear.svg#teddy_bear') format('svg'); /* Chrome < 4, Legacy iOS */
+}
