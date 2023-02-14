@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+}
+.menu-link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+.caption {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.paragraph {
+    font-style: normal;
+    font-weight: 300;
+    font-style: 18px;
+    line-height: 30px;
+    color: #7d7987;
+}
+.subtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-style: 36px;
+    line-height: 80px;
+}
